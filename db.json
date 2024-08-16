@@ -1,33 +1,40 @@
 {
-  "projects": [
+  "playlists": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "title": "My Ex Broke Up with Me",
+      "description": "I am feeling revengeful, but I also want to cry. Breakup and sad songs only!",
+      "songs": []
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "title": "It's Sunday Morning, I'm Hungover",
+      "description": "No thoughts in this head, only tunes. Songs to zone out to.",
+      "songs": []
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "title": "Who am I?",
+      "description": "Feeling philosophical, nothing makes sense. Trippy music welcome.",
+      "songs": []
+    },
+    {
+      "id": 4,
+      "title": "Life is Candy, I am a Child",
+      "description": "Happiness is everywhere in the world. Songs about true joy.",
+      "songs": []
+    },
+    {
+      "id": 5,
+      "title": "I'm a Queen, You're All Peasants",
+      "description": "Power in all its genders, I am on top of the world.",
+      "songs": []
+    },
+    {
+      "id": 6,
+      "title": "The Trees are Calling Out to Me",
+      "description": "It's time for a walk! Light, nature feels.",
+      "songs": []
     }
   ]
 }
