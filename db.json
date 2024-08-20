@@ -11,28 +11,28 @@
       "id": 2,
       "title": "It's Sunday Morning, I'm Hungover",
       "description": "No thoughts in this head, only tunes. Songs to zone out to.",
-      "genre": ["lo-fi"],
+      "genre": ["chill"],
       "songs": []
     },
     {
       "id": 3,
-      "title": "Who am I?",
-      "description": "Feeling philosophical, nothing makes sense. Trippy music welcome.",
-      "genre": ["psychedelic rock"],
+      "title": "I Want to Punch You",
+      "description": "I hate everything, bite me. Angry music welcome.",
+      "genre": ["death-metal"],
       "songs": []
     },
     {
       "id": 4,
       "title": "Life is Candy, I am a Child",
       "description": "Happiness is everywhere in the world. Songs about true joy.",
-      "genre": ["dance pop"],
+      "genre": ["happy"],
       "songs": []
     },
     {
       "id": 5,
       "title": "I'm a Queen, You're All Peasants",
       "description": "Power in all its genders, I am on top of the world.",
-      "genre": ["hip hop"],
+      "genre": ["hip-hop"],
       "songs": []
     },
     {
