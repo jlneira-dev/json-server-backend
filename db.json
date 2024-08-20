@@ -4,42 +4,42 @@
       "id": 1,
       "title": "Sadness is my Only Friend",
       "description": "Woe is me, sad songs only!",
-      "genre": ["Blues"],
+      "genre": ["blues"],
       "songs": []
     },
     {
       "id": 2,
       "title": "It's Sunday Morning, I'm Hungover",
       "description": "No thoughts in this head, only tunes. Songs to zone out to.",
-      "genre": ["Lo-fi"],
+      "genre": ["lo-fi"],
       "songs": []
     },
     {
       "id": 3,
       "title": "Who am I?",
       "description": "Feeling philosophical, nothing makes sense. Trippy music welcome.",
-      "genre": ["Psychedelic Rock"],
+      "genre": ["psychedelic rock"],
       "songs": []
     },
     {
       "id": 4,
       "title": "Life is Candy, I am a Child",
       "description": "Happiness is everywhere in the world. Songs about true joy.",
-      "genre": ["Dance Pop"],
+      "genre": ["dance pop"],
       "songs": []
     },
     {
       "id": 5,
       "title": "I'm a Queen, You're All Peasants",
       "description": "Power in all its genders, I am on top of the world.",
-      "genre": ["Hip Hop"],
+      "genre": ["hip hop"],
       "songs": []
     },
     {
       "id": 6,
       "title": "The Trees are Calling Out to Me",
       "description": "It's time for a walk! Light, nature feels.",
-      "genre": ["Classical"],
+      "genre": ["classical"],
       "songs": []
     }
   ]
