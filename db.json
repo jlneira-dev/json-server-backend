@@ -4,6 +4,7 @@
       "id": 1,
       "title": "Sadness is my Only Friend",
       "description": "Woe is me, sad songs only!",
+      "alias": "Sad",
       "genre": ["blues"],
       "songs": []
     },
@@ -11,6 +12,7 @@
       "id": 2,
       "title": "It's Sunday Morning, I'm Hungover",
       "description": "No thoughts in this head, only tunes. Songs to zone out to.",
+      "alias": "Chill",
       "genre": ["chill"],
       "songs": []
     },
@@ -18,6 +20,7 @@
       "id": 3,
       "title": "I Want to Punch You",
       "description": "I hate everything, bite me. Angry music welcome.",
+      "alias": "Angry",
       "genre": ["death-metal"],
       "songs": []
     },
@@ -25,6 +28,7 @@
       "id": 4,
       "title": "Life is Candy, I am a Child",
       "description": "Happiness is everywhere in the world. Songs about true joy.",
+      "alias": "Happy",
       "genre": ["happy"],
       "songs": []
     },
@@ -32,6 +36,7 @@
       "id": 5,
       "title": "I'm a Queen, You're All Peasants",
       "description": "Power in all its genders, I am on top of the world.",
+      "alias": "Empowered",
       "genre": ["hip-hop"],
       "songs": []
     },
@@ -39,6 +44,7 @@
       "id": 6,
       "title": "The Trees are Calling Out to Me",
       "description": "It's time for a walk! Light, nature feels.",
+      "alias": "Nature",
       "genre": ["classical"],
       "songs": []
     }
